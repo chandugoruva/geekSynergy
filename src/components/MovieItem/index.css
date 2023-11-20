@@ -1,0 +1,58 @@
+
+.main-item-bg{
+    background-color:#ffffff;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:60px;
+    width:390px;
+    
+}
+.sub-bg{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.vote-div{
+display:flex;
+flex-direction: column;
+justify-content: center;
+margin-top:20px;
+}
+
+.scroll{
+    font-size:40px;
+}
+.vote-font{
+    font-size:18px;
+    margin-left:10px;
+}
+.poster-image{
+    height:230px;
+    margin-left:10px;
+    border-radius:10px;
+    margin-right:20px;
+}
+.title{
+    font-size:20px;
+}
+.genre{
+    color:rgb(72, 66, 66);
+    font-size:14px;
+}
+.min-div{
+    display:flex;
+    flex-direction: row;
+}
+.total-views{
+    color:blue;
+    font-size:14px;
+}
+.button2{
+    background-color: rgb(42, 157, 195);
+    color:#ffffff;
+    font-size:20px;
+     border-width:0px;
+}
